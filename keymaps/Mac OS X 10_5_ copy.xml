@@ -25,7 +25,4 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
 </keymap>
