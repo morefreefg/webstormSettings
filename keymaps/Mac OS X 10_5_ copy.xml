@@ -29,10 +29,14 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift ctrl 6" />
+  </action>
   <action id="RunDashboard.RemoveConfiguration">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ToggleBookmark6" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
