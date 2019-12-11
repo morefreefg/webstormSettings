@@ -1,20 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts />
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
