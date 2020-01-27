@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="ToggleBookmark6" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
