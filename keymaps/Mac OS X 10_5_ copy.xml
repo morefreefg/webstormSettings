@@ -29,6 +29,7 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="PasteMultiple" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift ctrl 6" />
   </action>
