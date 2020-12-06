@@ -4,11 +4,17 @@
     <property name="created">2017-07-05T16:29:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-05T16:29:59</property>
+    <property name="modified">2020-11-30T14:53:35</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
