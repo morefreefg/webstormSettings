@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="font_2428292_wl7evgeel4e" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__at.alicdn.com_t_font_2428292_wl7evgeel4e.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__at.alicdn.com_t_font_2428292_wl7evgeel4e.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
