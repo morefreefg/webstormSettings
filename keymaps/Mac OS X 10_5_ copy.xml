@@ -41,6 +41,7 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="ToggleBookmark6" />
+  <action id="TypeHierarchy" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
