@@ -4,5 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.ts</mask>
+    <mask>.css</mask>
   </component>
 </application>
