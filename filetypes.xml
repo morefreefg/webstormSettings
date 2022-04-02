@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ComponentOperationTreeDataProvider.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="sub-modules.tsx" type="AUTO_DETECTED" />
       <mapping pattern="jedis_lock" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping pattern="gray-service-api.ts" type="TypeScript" />
