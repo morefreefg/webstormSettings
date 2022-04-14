@@ -1,12 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-06-28T10:23:07</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-06-28T10:48:22</property>
+    <property name="modified">2022-04-14T10:50:18</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
